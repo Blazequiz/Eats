@@ -1,0 +1,18 @@
+:root {
+--main--text--color: ;
+--accent--color: ;
+}
+.container {
+  width: 1210px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 15px;
+}
+.header-nav {
+  display: flex;
+}
+.header-list {
+  display: flex;
+  gap: 94px;
+  list-style-type: none;
+}
